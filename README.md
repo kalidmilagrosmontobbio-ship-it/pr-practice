@@ -4,7 +4,7 @@ A tiny playground repo for practicing the pull request workflow: branch, commit,
 
 ## What is this?
 
-This repo has no real application code. It exsits so you can practice contributing
+This repo has no real application code. It exists so you can practice contributing
 a small, safe change through a proper pull request.
 
 ## How to contribute
